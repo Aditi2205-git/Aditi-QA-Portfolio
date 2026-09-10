@@ -326,8 +326,7 @@ My latest ATS-friendly QA resume is available through my portfolio.
 https://github.com/Aditi2205-git
 
 **LinkedIn:**  
-https://linkedin.com/in/aditi-singh-5029623a
-
+https://www.linkedin.com/in/aditi-singh-5029623a2/
 **Email:**  
 singhaditi2254@gmail.com
 
